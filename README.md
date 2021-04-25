@@ -1,5 +1,7 @@
 knot
->>Working on the project is still in project
+>>Working on the project is still in project.
+>>Will be done by the mid of May.
+
 This website is Real-time Distributed and Decentalized Collaborative Plafrom which enables collaborative editing anywhere, at anytime, whatever the number of participants.
 
 Requirments:
